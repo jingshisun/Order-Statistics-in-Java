@@ -1,0 +1,1 @@
+This project consists of a class used to generate order statistics of datasets and a class for generating and analyzing q-quantiles of datasets.
